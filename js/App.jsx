@@ -1,7 +1,7 @@
+import Scene from "./game/Scene";
+
 export default function App() {
   return (
-    <div>
-      KRUNK WAR
-    </div>
+    <Scene />
   );
 }
